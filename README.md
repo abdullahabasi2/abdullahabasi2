@@ -1,6 +1,6 @@
 ![logo](https://github.com/abdullahabasi2/Abdullah-Saeed-Abbasi/blob/main/Github%20Banner.png)
 <h1 align="center">Hi 👋, I'm Abdullah Saeed Abbasi</h1>
-<h3 align="center">A passionate data scientist</h3>
+<h3 align="center">A Passionate Data Scientist</h3>
 
 <img align="right" alt="coding" width="300" src="https://media1.giphy.com/media/usXZmmgP9Z7kf39fnq/giphy.webp?cid=790b7611qlbxewkvy66se10g6hvs5mlr6b80duow9kxq3v9g&ep=v1_gifs_search&rid=giphy.webp&ct=g">
 
